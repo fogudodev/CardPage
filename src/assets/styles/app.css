@@ -1,0 +1,9 @@
+
+html, body{
+    background-color: rgb(247, 203, 57);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 100%;
+}

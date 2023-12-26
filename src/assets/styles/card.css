@@ -1,0 +1,56 @@
+.card-container {
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    border: 1px solid;
+    -webkit-box-shadow: 10px 10px 0px 6px rgba(0, 0, 0);
+    -moz-box-shadow: 10px 10px 0px 6px rgba(0, 0, 0);
+    box-shadow: 10px 10px 0px 6px rgba(0, 0, 0);
+
+  
+}
+
+.card-header> img {
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.tag-card > span{
+    font-family: Figtree-ExtraBold;
+    color: rgb(0, 0, 0);
+    background-color: rgb(247, 203, 57);
+    padding: 8px 20px 8px 20px;
+    display: inline-block;
+    border-radius: 5px;
+}
+
+.publi-card{
+    font-family: Figtree-SemiBold;
+}
+
+.title-card{
+    font-family: Figtree-ExtraBold;
+}
+
+.des-card{
+    font-family: Figtree-SemiBold;
+    color: rgb(146, 146, 146);
+    width:300px;
+    margin-bottom: 30px;
+}
+
+.profile-card{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 20px;
+}
+
+.profile-card > img{
+    width: 40px;
+}
+
+.profile-card > span{
+    font-family: Figtree-ExtraBold;
+    color: #000000;
+}
